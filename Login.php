@@ -6,7 +6,7 @@ session_start();
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Retania | KOST</title>
+  <title>Retania | KOST jedi lian chandra</title>
 
   <link href="img/SVG/Logo V!-1.svg" rel="icon">
   <link href="img/SVG/Logo V!-1.svg" rel="apple-touch-icon">
