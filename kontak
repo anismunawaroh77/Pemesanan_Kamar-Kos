@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menu Kontak</title>
+</head>
+<body>
+    <h1>Menu</h1>
+    <ul>
+        <li><a href="kontak.php">Kontak</a></li>
+        <!-- Ganti "kontak.php" dengan nama file yang sesuai untuk halaman kontak -->
+        <li><a href="beranda.php">Beranda</a></li>
+        <!-- Misalnya, Anda memiliki halaman beranda yang ingin ditautkan di sini -->
+        <li><a href="tentang.php">Tentang</a></li>
+        <!-- Tautan ke halaman tentang, ubah sesuai dengan halaman yang Anda miliki -->
+    </ul>
+</body>
+</html>
