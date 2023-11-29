@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="hero-text">
-                        <h1>Retania Kost</h1>
+                        <h1>Retania Kost jedi lian chandra</h1>
                         <p>Penyedia Kost dengan Wilayah Cukup Lengkap di Setiap Daerahnya</p>
                         <a href="#" class="primary-btn">Lihat Sekarang</a>
                     </div>
